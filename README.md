@@ -7,6 +7,7 @@ Ideas for personal projects...
 
 - Pro-train (your daily commute)
 - Living Style guide(s)
+  -/Using SASS
 - conversational web app
 - mail sent animation 
 - ice scream van animation/website/after effects
