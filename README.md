@@ -5,6 +5,7 @@ Hello I'm Sean McIntosh. My work revolves around people/users who need to get fr
 
 Ideas for personal projects...
 
+- ProPly – A selection of experimental products as a showcase
 - Pro-train (your daily commute)
 - Living Style guide(s)
   -/Using SASS
