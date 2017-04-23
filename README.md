@@ -12,3 +12,5 @@ Ideas for personal projects...
 - conversational web app
 - mail sent animation 
 - ice scream van animation/website/after effects
+- the golden cycle website 
+  -/a book exploring the golden cycle — taking cues from hooked and atomic design 
